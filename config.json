@@ -1,0 +1,22 @@
+{
+    "CLIENT_ID": "Client Id",
+    "rpc_activity": {
+        "details": "🎈Discord.gg/stan",
+        "startTimestamp": 1620829388,
+        "state": "🧸Join Now!",
+        "largeImageKey": "bigg",
+        "smallImageKey": "smalll",
+        "largeImageText": "discord.gg/stan",
+        "smallImageText": "🌉 stan-official.ir",
+        "buttons": [
+            {
+                "label": "🧸 stan-official.ir",
+                "url": "https://stan-official.ir/"
+            },
+            {
+                "label": "🥋 discord.gg/stan",
+                "url": "https://discord.gg/stan/"
+            }
+        ]
+    }
+}

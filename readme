@@ -1,0 +1,3 @@
+1- فایل کانفیگ رو باز کنید 
+2-  https://discord.com/developers/applications کلاینت آیدی خود را از سایت مقابل دریافت و کپی کنید
+3-  https://discord.com/developers/applications عکس بزرگ و کوچیک را آپلود و جایگزاری کنید در فایل کانفیگ config.json (smallimagekey, largeimagekey)
